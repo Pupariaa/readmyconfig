@@ -1,0 +1,47 @@
+{
+    "name": "readmyconfig",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "exports": {
+        ".": "./index.js",
+        "./package": "./readers/package.js",
+        "./tsconfig": "./readers/tsconfig.js",
+        "./vite": "./readers/vite.js",
+        "./eslint": "./readers/eslint.js",
+        "./prettier": "./readers/prettier.js"
+    },
+    "files": [
+        "index.js",
+        "readers/",
+        "lib/"
+    ],
+    "keywords": [
+        "config",
+        "json",
+        "typescript",
+        "vite",
+        "eslint",
+        "prettier",
+        "nodejs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pupariaa/readmyconfig.git"
+    },
+    "homepage": "https://github.com/Pupariaa/readmyconfig#readme",
+    "bugs": {
+        "url": "https://github.com/Pupariaa/readmyconfig/issues"
+    },
+    "author": {
+        "name": "Maxime zorloni",
+        "username": "Pupariaa",
+        "npm": "pupariadev",
+        "email": "maxime.zorloni@outlook.fr",
+        "url": "https://github.com/Pupariaa"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
