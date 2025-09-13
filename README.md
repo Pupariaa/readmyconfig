@@ -1,12 +1,10 @@
 # readmyconfig
+A simple JavaScript library to read Node.js project configuration files synchronously without requiring await.
 
 [![npm version](https://badge.fury.io/js/readmyconfig.svg)](https://badge.fury.io/js/readmyconfig)
 [![Downloads](https://img.shields.io/npm/dt/readmyconfig)](https://www.npmjs.com/package/readmyconfig)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
-
-
-A simple JavaScript library to read Node.js project configuration files synchronously without requiring await.
 
 ## Installation
 
