@@ -116,12 +116,6 @@ const customConfig = Konf.get('webpack');
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Built with [Nodemailer](https://nodemailer.com/)
-- Inspired by modern email best practices
-- Templates designed for accessibility and compatibility
-
 ## Support
 
 - [Report bugs](https://github.com/Pupariaa/readmyconfig/issues)
